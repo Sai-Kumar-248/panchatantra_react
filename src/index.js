@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Login from './components/Login';
+import Login from './components/LoginComponent/Login';
 
-import LandingPage from './components/LandingPage';
+import LandingPage from './components/LandingComponent/LandingPage';
 import Students from './components/Students';
 import Teachers from './components/Teachers';
-import Classes from './components/Classes';
+import Classes from './components/ClassComponent/Classes';
 
 const App = () => (
   <Router>
