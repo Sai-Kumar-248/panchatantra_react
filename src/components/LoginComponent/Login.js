@@ -21,7 +21,7 @@ const Login = () => {
 
   return (
     <div className="login-container">
-      <h2>PANCHATANTRA-TEST</h2>
+      <h2>PANCHATANTRA</h2>
       <form className="login-form" onSubmit={handleLogin}>
         <div>
           <label>Username:</label>
