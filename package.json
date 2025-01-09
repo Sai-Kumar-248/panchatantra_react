@@ -1,5 +1,7 @@
 {
   "name": "school_management_react",
+  "homepage": "https://panchatantra123.netlify.app",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
