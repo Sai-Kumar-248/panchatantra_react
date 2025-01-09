@@ -5,7 +5,7 @@ import Login from './components/LoginComponent/Login';
 
 import LandingPage from './components/LandingComponent/LandingPage';
 import Students from './components/Students';
-import Teachers from './components/Teachers';
+import Teachers from './components/TeacherComponent/Teachers';
 import Classes from './components/ClassComponent/Classes';
 
 const App = () => (

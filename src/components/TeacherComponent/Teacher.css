@@ -1,0 +1,48 @@
+.teachers-container {
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+.teachers-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.teachers-table th,
+.teachers-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.teachers-table th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.add-teacher-form {
+  margin-top: 20px;
+}
+
+.add-teacher-form input {
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.add-teacher-form button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
