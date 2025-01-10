@@ -14,7 +14,7 @@ const LandingPage = () => {
           <button onClick={() => (window.location.href = '/teachers')}>Teachers</button>
         </div>
       </header>
-
+      <h1 className='h1'>TODAYS NEWS</h1>
       {/* Body Section with School Image */}
       <div className="body">
         <img src={require('../../assets/images/background.jpg')} alt="School" className="school-image" />
